@@ -26,10 +26,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bhurl-lbg/ga-account-service.git"
+    "url": "git+https://github.com/bhurl-lbg/ga-accounts-service.git"
   },
   "bugs": {
-    "url": "https://github.com/bhurl-lbg/ga-account-service/issues"
+    "url": "https://github.com/bhurl-lbg/ga-accounts-service/issues"
   },
-  "homepage": "https://github.com/bhurl-lbg/ga-account-service#readme"
+  "homepage": "https://github.com/bhurl-lbg/ga-accounts-service#readme"
 }
